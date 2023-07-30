@@ -31,7 +31,7 @@ class NoteItem extends StatelessWidget {
                 'Build Your career with Mostafa',
                 style: TextStyle(
                   color: Colors.black.withOpacity(.5),
-                  fontSize: 16,
+                  fontSize: 18,
                 ),
               ),
             ),
